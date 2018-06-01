@@ -28,3 +28,8 @@ From start to end this tutorial shows you in 9 steps how to:
 8- Push the Docker image to Docker Hub
 
 9- Deploy the Docker image to Heroku
+
+Get Ready to become an automation Guru :muscle: :rocket:
+
+
+I love coding with :coffee:
